@@ -1,7 +1,7 @@
 # MyComparator
 Initialisation.
+HTML Stucture:
 
-        //HTML Stucture:
         <div class="mygalery"></div>
         <script type="text/javascript" src="./comparator.js"></script>
 
