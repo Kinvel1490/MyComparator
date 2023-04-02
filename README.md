@@ -1,10 +1,10 @@
 # MyComparator
 Initialisation.
-HTML Stucture:
+//HTML Stucture:
 <div class="mygalery"></div>
 <script type="text/javascript" src="./comparator.js"></script>
-JS Script:
 
+JS Script:
 //create a two dimensional array. mark the addresses of full-size images in the first array, and the addresses of their thumbnails in the second array:
 var mass = [["./img/full/black_hole_on_earth-wallpaper-1920x1080.jpg",
         "./img/full/dark_earth-wallpaper-1920x1080.jpg",
