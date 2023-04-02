@@ -6,7 +6,6 @@ HTML Stucture:
 JS Script:
 
 //create a two dimensional array. mark the addresses of full-size images in the first array, and the addresses of their thumbnails in the second array:
-
 var mass = [["./img/full/black_hole_on_earth-wallpaper-1920x1080.jpg",
         "./img/full/dark_earth-wallpaper-1920x1080.jpg",
         "./img/full/cuba_and_bahamas_islands_seen_from_space-wallpaper-1920x1080.jpg",
